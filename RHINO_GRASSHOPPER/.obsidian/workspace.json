@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "6e56162dbd6a45f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5204b1bd948066ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bdfbb4d5c7d805f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_algorithmic modeling with Grasshopper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_algorithmic modeling with Grasshopper"
+            }
+          },
+          {
+            "id": "d23d38fd1edae4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grasshopper Pro Hopific course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grasshopper Pro Hopific course"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd5d92e62170d564",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7947e2f97aaca64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f39f505bdac920",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b948e64a4826095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "56f94752617fc8c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80ac0d1b472d6659",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c194d57a45cde8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecddb6ad84e1a6bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FAQ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FAQ"
+            }
+          },
+          {
+            "id": "3a74647634c06550",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FAQ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FAQ"
+            }
+          },
+          {
+            "id": "d8d08e2d404ee52b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc8418c5e3a7ddd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "86ed6e4c53d6a204",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d23d38fd1edae4ed",
+  "lastOpenFiles": [
+    "Library.md",
+    "Главная.md",
+    "Courses.md",
+    "AAD.md",
+    "Grasshopper Pro Hopific course.md",
+    "Параметрическое моделирование в Grasshopper.md.tmp.2792.871699aa130d",
+    "AAD.md.tmp.2792.7ffc009acad3",
+    "Grasshopper Pro Hopific course.md.tmp.2792.aefe991e5989",
+    "Plugins.md.tmp.2792.ee979c466e64",
+    "Library.md.tmp.2792.5eb21913d192",
+    "FAQ.md",
+    "2_Data.md",
+    "1_algorithmic modeling with Grasshopper.md",
+    "Главная.md.tmp.2792.2967ee65258d",
+    "3_Control.md",
+    "Grasshopper.md",
+    "Plugins.md",
+    "Параметрическое моделирование в Grasshopper.md",
+    "Rhino.md",
+    "Hopific - The Ultimate Grasshopper Keyboard Shortcuts CheetSheet.pdf",
+    "HowToDoMultipleInput.png",
+    "image.png",
+    "Untitled.md",
+    "resources/Pasted image 20251110135701.png",
+    "resources",
+    "resources/Pasted image 20251124123722.png",
+    "resources/Pasted image 20251124123649.png",
+    "resources/Pasted image 20251124123355.png",
+    "resources/Pasted image 20251124123211.png",
+    "resources/Pasted image 20251124122337.png",
+    "resources/Pasted image 20251124122108.png",
+    "resources/Pasted image 20251124121136.png",
+    "Incorrect order in selection set.md",
+    "Problems-Solutions.md",
+    "().md",
+    "GRASSHOPPER/Welcome.md"
+  ]
+}
